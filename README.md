@@ -58,6 +58,15 @@ Step 8: Review and Test
 
 
 ## Output:
+
+![image](https://github.com/user-attachments/assets/44387b20-aa0c-4308-9ac4-b0ab3679bf85)
+
+![image](https://github.com/user-attachments/assets/438eef14-129c-4446-9c39-5ac9815f722e)
+
+![image](https://github.com/user-attachments/assets/83d050bc-9931-4ebc-98c2-55fc9ccf11c3)
+
+![image](https://github.com/user-attachments/assets/ca473728-d585-4d15-85ba-b733ef32b11a)
+
 ![Screenshot 2025-05-01 120307](https://github.com/user-attachments/assets/06eeab7b-bed7-4eb7-a72f-b9c64126102f)
 
 ![Screenshot 2025-05-01 114348](https://github.com/user-attachments/assets/1c0da9b1-d839-43db-b302-84be6f317ffe)
